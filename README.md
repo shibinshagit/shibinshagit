@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://images.app.goo.gl/WhujgHAN87ra8Nmn9" alt="Your Name - Full Stack Developer">
+  <img src="https://www.google.com/imgres?imgurl=https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png&tbnid=1v1zI0gjLFXAqM&vet=1&imgrefurl=https://github.com/shobhit24&docid=zQYxv1csIT2LqM&w=13616&h=5440&hl=en&source=sh/x/im/m1/1#imgrc=YgciaXj52wDilM&imgdii=1v1zI0gjLFXAqM" alt="Your Name - Full Stack Developer">
 </div>
 
 

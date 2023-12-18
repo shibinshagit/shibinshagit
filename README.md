@@ -4,20 +4,11 @@ I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/shibin-sha">
-    <img height="20" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/shaBro__">
-    <img height="20" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://codepen.io/shibin-sha">
-    <img height="20" src="https://img.shields.io/badge/Codepen-%231A1A1A.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
-  </a>
-  <a href="https://yourportfolio.com">
-    <img height="20" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shibin-sha)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaBro__)
+[![Codepen](https://img.shields.io/badge/Codepen-Explore-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shibin-sha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
+
 
 
 

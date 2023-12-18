@@ -10,9 +10,10 @@ I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
 
 
+
 # 💻 Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -34,7 +35,8 @@ I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</div>
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

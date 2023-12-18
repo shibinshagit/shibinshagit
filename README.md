@@ -2,7 +2,7 @@
 I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about developing scalable distributed systems,<br>loves problem solving and cares about writing readable as well as maintainable code.
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibin sha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shaBro__) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shibin sha) 
 
 # 💻 Tech Stack:

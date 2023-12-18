@@ -12,7 +12,7 @@ I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about
 
 # 💻 Tech Stack
 
-<p align="center">
+<p>
   <img height="20" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img height="20" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img height="20" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">

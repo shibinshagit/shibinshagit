@@ -1,4 +1,7 @@
-[![SHIBIN SHA - Full Stack Developer](https://images.app.goo.gl/WhujgHAN87ra8Nmn9)](https://images.app.goo.gl/WhujgHAN87ra8Nmn9)
+
+<div align="center">
+  <img src="https://images.app.goo.gl/WhujgHAN87ra8Nmn9" alt="Your Name - Full Stack Developer">
+</div>
 
 
 

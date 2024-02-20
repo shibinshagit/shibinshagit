@@ -1,21 +1,10 @@
-
-#  About Me
-I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about developing scalable distributed systems,<br>loves problem solving and cares about writing readable as well as maintainable code.
-
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shibin-sha)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shaBro__)
-[![Codepen](https://img.shields.io/badge/Codepen-Explore-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/shibin-sha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
+<h1 align="center">Hi 👋, I'm Shibin Sha</h1>
+<h3 align="center">I'm Software Engineer, Full Stack Web Developer and Entrepreneur from India</h3>
 
 
 
-
-# Tech Stack
-
-<p>
+- 💬 Ask me about **nodeJs, reactJs , nextJs and nestJs**
+- <p>
   <img height="20" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img height="20" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img height="20" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -32,5 +21,12 @@ I’m a Full Stack Developer based in Kochi, Kerala, curious to learn more about
   <img height="20" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
+- 📫 How to reach me **shibinshafirdous@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
+

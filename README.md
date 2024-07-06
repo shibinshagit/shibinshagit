@@ -21,7 +21,7 @@
   <img height="20" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-- 📫 How to reach me **shibinshafirdous@gmail.com**
+- 📫 reach out **shibinshafirdous@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

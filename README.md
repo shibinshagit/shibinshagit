@@ -2,7 +2,7 @@
 -  Software Engineer interested in Data Engineering, Software Development, SAS products, Search and Recommendations.
 -  I’m currently learning more DS & Algo, some AI and ML Topics.
 -  I’m looking to collaborate on data driven project, OMS/LMS/S&R projects or any DB architecture and scaling projects.
-- 💬 Ask me about **NodeJs, ReactJs, AstroJs , NextJs and NestJs**
+- 💬 Ask me about **Xeokit, Threejs, NodeJs, ReactJs, AstroJs , NextJs and NestJs**
 - 📫 reach out **shibinshafirdous@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
